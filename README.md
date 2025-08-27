@@ -1,13 +1,13 @@
 ## 🔒 My Development Activity
 
 <iframe 
-  src="https://jayjay-101.github.io/jayjay-101/commit-graph.html" 
+  src="[https://jayjay-101.github.io/jayjay-101/commit-graph.html](https://jayjay-101.github.io/commit-graph.html)" 
   width="100%" 
   height="600px" 
   frameborder="0">
 </iframe>
 
-*[View Full Screen →](https://jayjay-101.github.io/jayjay-101/commit-graph.html)*
+*[View Full Screen →]([https://jayjay-101.github.io/jayjay-101/commit-graph.html](https://jayjay-101.github.io/commit-graph.html))*
 
 <!--
 **JayJay-101/JayJay-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
